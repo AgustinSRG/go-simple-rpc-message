@@ -2,6 +2,8 @@
 
 This library implements a very simple RPC message system to be used in a text-based communication system.
 
+[Documentation](https://pkg.go.dev/github.com/AgustinSRG/go-simple-rpc-message)
+
 ## Message format
 
 The messages are UTF-8 encoded strings, with parts split by line breaks (\n):
